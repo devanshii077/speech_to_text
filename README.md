@@ -19,9 +19,6 @@ Perfect for beginners, demos, or presentations!
 - [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
 - [PyAudio](https://pypi.org/project/PyAudio/)
 
-## 📷 Screenshot
-
-> Add a screenshot of your app window here (optional)
 
 ## 🚀 How to Run
 
